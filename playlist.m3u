@@ -1,0 +1,33 @@
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+http://r.jdshipin.com/0Rp0
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
+http://113.117.74.18:8081/hls/36/index.m3u8
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
+http://113.117.74.17:8081/hls/37/index.m3u8
+#EXTINF:-1,tvg-id="华语卫视" tvg-name="华语卫视" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",华语卫视
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1,tvg-id="华语卫视" tvg-name="华语卫视" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",华语卫视
+http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+#EXTINF:-1,tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://epg.112114.xyz/logo/台视新闻.png" group-title="台湾",台视新闻
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1,tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://epg.112114.xyz/logo/民视新闻.png" group-title="台湾",民视新闻http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1,tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻.png" group-title="台湾",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1,tvg-id="半岛新闻" tvg-name="半岛新闻" tvg-logo="https://epg.112114.xyz/logo/aljazeera.png" group-title="国际",半岛新闻
+https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
+#EXTINF:-1,tvg-id="半岛新闻" tvg-name="半岛新闻" tvg-logo="https://epg.112114.xyz/logo/aljazeera.png" group-title="国际",半岛新闻
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijdp
+#EXTINF:-1,tvg-id="亚洲新闻" tvg-name="亚洲新闻" tvg-logo="https://epg.112114.xyz/logo/aljazeera.png" group-title="国际",亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+#EXTINF:-1,tvg-id="亚洲新闻" tvg-name="亚洲新闻" tvg-logo="https://epg.112114.xyz/logo/aljazeera.png" group-title="国际",亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+#EXTINF:-1,tvg-id="BloombergTV" tvg-name="BloombergTV" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERGTV.png" group-title="国际",BloombergTV
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1,tvg-id="NewsmaxTV" tvg-name="NewsmaxTV" tvg-logo="https://deadline.com/wp-content/uploads/2017/06/newsmax-tv-logo.jpg" group-title="国际",NewsmaxTV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1,tvg-id="BBC" tvg-name="BBC" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="国际",BBC
+https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
+#EXTINF:-1,tvg-id="ABC" tvg-name="ABC" tvg-logo="https://epg.112114.xyz/logo/ABC.png" group-title="国际",ABC
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1,tvg-id="ClubbingTV" tvg-name="ClubbingTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/CLUBBING_TV_2010.gif" group-title="国际",ClubbingTV
+https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
